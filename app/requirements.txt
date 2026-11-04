@@ -1,0 +1,10 @@
+streamlit
+geopandas
+folium
+streamlit-folium
+google-genai
+pydantic
+pandas
+python-dotenv
+lxml
+shapely
